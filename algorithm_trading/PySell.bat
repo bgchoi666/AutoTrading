@@ -1,0 +1,1 @@
+C:\anaconda3_32\python H:\알고리즘트레이딩\PySell.py -5 33
