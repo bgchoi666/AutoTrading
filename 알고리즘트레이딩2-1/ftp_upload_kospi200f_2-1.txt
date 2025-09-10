@@ -1,0 +1,5 @@
+open 192.168.219.106 21
+user "jeunghw" "1234"
+cd 알고리즘트레이딩2-1
+put kospi200f_11_60M.csv
+bye
